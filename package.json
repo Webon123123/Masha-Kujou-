@@ -1,5 +1,5 @@
 {
-	"name": "Ai Hoshino",
+	"name": "Masha Kujou",
 	"version": "6.0.0",
 	"description": "María Mikhaloivna Kujou",
 	"main": "roshidere.js",
@@ -41,7 +41,7 @@
 		"@bochilteam/scraper": "^4.2.4",
 		"@whiskeysockets/baileys": "*",
 		"@ibaraki-douji/pixivts": "^2.4.1",
-		"@Starlights/Scraper": "github:StarlightsTeam/Starlights-Scraper",
+		"@Starlights/Scraper": "github:StarlightsTeam/StarlightsTeam-Scraper",
 		"awesome-phonenumber": "*",
 		"fluid-spotify.js": "*",
 		"axios": "*",
