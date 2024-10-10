@@ -11,10 +11,10 @@
 </p>
 <p>
     <a href="https://github.com/Webon123123/Masha-Kujou-/followers"><img title="Followers" src="https://img.shields.io/github/followers/Webon123123?color=blue&style=flat-square"></a>
-    <a href="https://github.com/Webon123123/Masha-Kujou-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Webon123123/Masha-Kujou?color=red&style=flat-square"></a>
-    <a href="https://github.com/Webon123123/Masha-Kujou/network/members"><img title="Forks" src="http://img.shields.io/github/forks/Webon123123/Masha-Kujou?color=red&style=flat-square"></a>
+    <a href="https://github.com/Webon123123/Masha-Kujou-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Webon123123/Masha-Kujou-?color=red&style=flat-square"></a>
+    <a href="https://github.com/Webon123123/Masha-Kujou-/network/members"><img title="Forks" src="http://img.shields.io/github/forks/Webon123123/Masha-Kujou-?color=red&style=flat-square"></a>
     <a href="#"><img src="https://img.shields.io/badge/MANTENIMIENTO-SI-blue.svg"></a>
-    <img src="https://img.shields.io/github/repo-size/Webon123123/Masha-Kujou" /> <br>
+    <img src="https://img.shields.io/github/repo-size/Webon123123/Masha-Kujou-" /> <br>
 </p>
 
 ---------
