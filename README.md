@@ -81,4 +81,4 @@
 
 <a href="https://atom.bio/masha_ofc"><img src="https://github.com/AikerDev.png" width="300" height="300" alt="masha_ofc"/></a>
 
-`© Masha Kujou - MD / Starlights Team _ By Masha_ofc`
+`© Masha Kujou - MD / Roshidere Group_ By Masha_ofc`
