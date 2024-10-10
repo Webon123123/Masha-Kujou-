@@ -20,7 +20,7 @@ say('Maria Mikhaloivna Kujou', {
   gradient: ['red', 'magenta']
 })
 
-say(`MASHA BOT 1.0...`, {
+say(`1.0`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
@@ -81,4 +81,4 @@ async function start(files) {
   }
 }
 
-start(['starlights.js'])
+start(['roshidere.js'])
